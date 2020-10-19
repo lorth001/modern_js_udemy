@@ -1,0 +1,2 @@
+# Modern JS Udemy
+The projects in this directory are all built from the "Modern JavaScript From the Beginning" course by Brad Traversy on Udemy.  These projects are all built using Vanilla JS and basic HTML/CSS (no frameworks).  Most of the code is copied from the project tutorials within the course to solidify the various concepts learned.  My hope is that this repo will be a good place to reference code/ideas in the future once I begin building JS projects of my own. 
